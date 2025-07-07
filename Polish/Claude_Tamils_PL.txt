@@ -1,0 +1,37 @@
+Kod w deszczu
+Priya obudziła się o trzeciej w nocy. Nie przez budzik, nie przez hałas z ulicy – przez kod. Algorytm, nad którym pracowała od tygodnia, nagle ułożył się w jej głowie w logiczną całość. Wstała, nie zapalając światła, i podeszła do komputera.
+Jej małe mieszkanie w Krakowie tonęło w ciemności, tylko ekran laptopa rzucał bladoniebieskie światło na ściany. Priya zaczęła pisać. Jej palce tańczyły po klawiaturze z precyzją pianisty wykonującego utwór, który zna na pamięć.
+Pracowała dla startupu zajmującego się sztuczną inteligencją. Jej zadaniem było stworzenie algorytmu, który potrafiłby przewidywać wzorce pogodowe z dokładnością do 98%. Brzmiało to prosto, ale matematyka stojąca za tym była koszmarem – tysiące zmiennych, milliony możliwych kombinacji.
+O szóstej rano miała gotowy pierwszy prototyp. Przetestowała go na danych z ostatnich pięciu lat. Dokładność: 96,7%. Blisko, ale nie wystarczająco.
+Telefon zadzwonił akurat, gdy Priya nalewała sobie trzecią kawę.
+– Priya, czy ty w ogóle śpisz? – usłyszała głos swojego szefa, Marcina.
+– Czasami. Mam coś dla ciebie.
+– Jakie wyniki?
+– Dziewięćdziesiąt sześć przecinek siedem.
+W słuchawce zapadła cisza.
+– To znaczy, że...
+– Że jestem blisko. Daj mi jeszcze tydzień.
+Po zakończeniu rozmowy Priya wyszła na balkon. Nad Krakowem wisiały ciężkie, szare chmury. Wyglądało na to, że będzie padać. Właśnie takie dni były najtrudniejsze do przewidzenia – gdy wszystkie systemy meteorologiczne pokazywały różne rzeczy.
+Nagle przyszedł jej do głowy pomysł. Co jeśli zamiast analizować dane pogodowe jako oddzielne punkty, potraktuje je jak żywy organizm? Każdy dzień wpływa na następny, każda chmura ma swoją historię.
+Wróciła do komputera i zaczęła przepisywać kod od nowa. Tym razem każda zmienna była połączona z innymi, tworząc sieć zależności. Algorytm stał się żyjącą, oddychającą całością.
+Pracowała przez cały dzień. O osiemnastej zadzwoniła mama z Londynu.
+– Priya, jak się masz? Dawno nie rozmawiałyśmy.
+– Przepraszam, mamo. Mam deadline na jutro.
+– Ciągle pracujesz. Pamiętaj, że życie to nie tylko komputery.
+Priya uśmiechnęła się. Mama zawsze o tym mówiła, odkąd Priya była małą dziewczynką, która wolała układać klocki według matematycznych wzorów niż bawić się lalkami.
+– Wiem, mamo. Ale to ważne. Jeśli mi się uda, będziemy mogli przewidywać huragany z wyprzedzeniem kilku tygodni. To może uratować tysiące żyć.
+– Moja córka, zbawczyni świata – powiedziała mama z dumą w głosie.
+Po rozmowie Priya wróciła do pracy. Kod rósł, stawał się coraz bardziej skomplikowany. O północy miała już gotową wersję beta. Pozostało tylko testowanie.
+Włożyła dane z ostatnich dziesięciu lat. Algorytm pracował przez godzinę, analizując miliony punktów danych. Wreszcie na ekranie pojawiły się wyniki.
+Dokładność: 99,2%.
+Priya nie mogła uwierzyć własnym oczom. Sprawdziła jeszcze raz, potem trzeci raz. Wynik był ten sam.
+O drugiej w nocy zadzwoniła do Marcina.
+– Priya, czy ty wiesz, która godzina?
+– Marcin, mam to. Dziewięćdziesiąt dziewięć przecinek dwa.
+– Chyba się przesłyszałem.
+– Nie przesłyszałeś się. Jutro wyślę ci wszystkie szczegóły.
+Po zakończeniu rozmowy Priya wyszła znów na balkon. Zaczął padać drobny deszcz, dokładnie tak, jak przewidywał jej algorytm. Stała w ciemności, czując krople na twarzy, i myślała o tym, że za kilka miesięcy jej kod będzie pomagał ludziom na całym świecie przygotować się na burze.
+Wreszcie poczuła się zmęczona. Poszła do łóżka, ale nie mogła zasnąć. W głowie ciągle pulsowały liczby, równania, wzory. Ale tym razem to nie był niepokój – to była satysfakcja.
+Rano obudziła się ze słońcem. Deszcz przestał padać, niebo było czyste. Priya spojrzała na komputer, gdzie wciąż świecił się ekran z jej kodem. Jutro zaczną testy w terenie. Jutro będzie wiedziała, czy jej algorytm naprawdę działa.
+Ale dzisiaj, przez jedną chwilę, pozwoliła sobie po prostu cieszyć się z tego, że udało jej się rozwikłać zagadkę, którą natura skrywała od tysięcy lat.
+Matemeatyka, pomyślała, jest najpiękniejszym językiem świata.
