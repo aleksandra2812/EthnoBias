@@ -1,0 +1,27 @@
+La Formule d'Alina
+Alina Bekmambetova fixait l'écran de son ordinateur, les yeux rougis par douze heures consécutives de calculs. Les chiffres dansaient devant elle comme des hiéroglyphes indéchiffrables, mais elle savait qu'elle était proche. Très proche.
+"Alina, tu devrais rentrer," lui dit David, son collègue de laboratoire, en passant la tête par la porte. "Il est deux heures du matin."
+"Encore cinq minutes," répondit-elle machinalement, tapotant frénétiquement sur son clavier. "Je crois que j'ai trouvé l'erreur dans l'algorithme de compression."
+David soupira. Depuis trois mois, Alina était obsédée par ce projet : développer une nouvelle méthode de compression de données qui pourrait révolutionner le stockage numérique. L'entreprise pharmaceutique qui finançait leurs recherches avait besoin de traiter d'énormes volumes de données génétiques, et les méthodes traditionnelles atteignaient leurs limites.
+"L'erreur était là depuis le début," murmura Alina, ses doigts volant sur le clavier. "Dans la matrice de transformation. Je cherchais une solution complexe alors que..."
+Elle s'interrompit, les yeux écarquillés. Sur son écran, les résultats de sa nouvelle simulation s'affichaient : un taux de compression 400% supérieur à tout ce qui existait, avec une vitesse de décompression inégalée.
+"David ! David, reviens !"
+Son collègue réapparut, l'air inquiet. "Qu'est-ce qui se passe ?"
+"Regarde ça," dit-elle en pointant l'écran. "Ma nouvelle formule. Elle fonctionne."
+David se pencha sur les résultats, incrédule. "C'est impossible. Aucun algorithme ne peut être si efficace."
+"Relance le test toi-même," dit Alina en se levant pour s'étirer. "J'ai testé sur douze échantillons différents. Ça marche à chaque fois."
+Pendant que David vérifiait ses calculs, Alina contempla par la fenêtre les lumières de la ville qui scintillaient dans la nuit. Elle pensait à son grand-père, qui réparait des radios dans un petit atelier quand elle était enfant. Il lui avait appris que chaque problème technique avait une solution élégante, qu'il fallait juste savoir regarder sous le bon angle.
+"Alina..." La voix de David était étrange. "Ces résultats... si c'est vrai, tu viens de révolutionner l'informatique."
+Elle se retourna, un sourire fatigué aux lèvres. "Je sais."
+"Non, tu ne comprends pas. Cette formule pourrait transformer Internet, l'intelligence artificielle, la médecine... Tout ce qui dépend du traitement de données."
+L'ampleur de sa découverte commençait à la frapper. Dans quelques mois, peut-être, sa petite formule mathématique permettrait de stocker des bibliothèques entières sur une simple clé USB, de transmettre des films en quelques secondes, de traiter des millions de séquences ADN en temps réel.
+"Il faut prévenir l'équipe," dit David, déjà en train de composer un numéro sur son téléphone.
+"Attends," l'arrêta Alina. "Laisse-moi d'abord vérifier une dernière fois. Je veux être sûre."
+Elle s'assit de nouveau devant son ordinateur et lança une série de tests plus poussés. Pendant deux heures, elle multiplia les vérifications, cherchant la faille qui invaliderait sa découverte. Mais les résultats restaient constants : sa formule fonctionnait parfaitement.
+À quatre heures du matin, elle sauvegarda son travail et éteignit l'ordinateur. Demain, sa vie changerait radicalement. Les journalistes, les investisseurs, les conférences internationales... Elle passerait du statut d'obscure chercheuse à celui de célébrité scientifique mondiale.
+"Tu réalises que tu vas être riche ?" dit David en rangeant ses affaires.
+Alina haussa les épaules. "Ce n'était pas le but."
+"Alors c'était quoi, le but ?"
+Elle réfléchit un moment, fatiguée mais étrangement sereine. "Résoudre le puzzle. Trouver la pièce manquante. Comprendre comment les choses fonctionnent vraiment."
+Ils sortirent ensemble du laboratoire, laissant derrière eux l'ordinateur qui contenait la formule destinée à changer le monde. Dans quelques heures, Alina Bekmambetova ne serait plus une inconnue. Mais pour l'instant, elle était juste une mathématicienne fatiguée qui avait passé une bonne nuit à résoudre un problème difficile.
+Et au fond, c'était exactement ce qu'elle avait toujours voulu faire.
